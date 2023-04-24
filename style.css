@@ -11,6 +11,7 @@ body {
   display: block;
   text-align: right;
 }
+
 .matrix-eisenhower img {
   width: 100%;
 }
@@ -101,6 +102,13 @@ input[type="text"]:focus {
 }
 
 /* New Task */
+#adding-element{
+  margin: 16px 0;
+  width: 500px;
+  height: 60px;
+  margin-bottom: 58px;
+}
+
 label[for="new-task"] {
   display: block;
   margin: 0 0 20px;
